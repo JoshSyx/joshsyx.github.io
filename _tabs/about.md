@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 # Yoshua Ligt  
 
 I am a first-year **Creative Media & Game Technologies** student at **Saxion Enschede**, where I have chosen the role of an **Artist / Engineer**.  
